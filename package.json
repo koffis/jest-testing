@@ -1,0 +1,26 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverage": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koffis/jest-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koffis/jest-testing/issues"
+  },
+  "homepage": "https://github.com/koffis/jest-testing#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
